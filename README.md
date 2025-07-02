@@ -6,7 +6,9 @@ An end-to-end project analyzing the US Superstore dataset using SQL and Excel. I
 
 # Tools Used
 MySQL Workbench
+
 Excel
+
 SQL 
 
 # Summary
