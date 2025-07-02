@@ -1,2 +1,14 @@
-# superstore_analysis
-End-to-end sales analysis of the US Superstore dataset using SQL for data cleaning and EDA, and Excel for building an interactive dashboard with key insights on sales, profit, region, category, and trends.
+# US Superstore Sales Analysis
+An end-to-end project analyzing the US Superstore dataset using SQL and Excel. It covers data cleaning, transformation, exploratory analysis in MySQL, and interactive dashboard creation in Excel.
+
+# Contents
+
+
+# Tools Used
+MySQL Workbench
+Excel
+SQL 
+
+# Summary
+Key insights on sales, profit, top products, regions, and monthly trends, presented through pivot tables and charts.
+
